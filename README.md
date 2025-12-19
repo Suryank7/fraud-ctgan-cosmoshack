@@ -195,5 +195,8 @@ Built for the AI & Machine Learning Hackathon Track
 
 **Status**: ✅ Production-Ready | ✅ Demo-Ready | ✅ Submission-Ready
 
+## 🔴 Live Demo
+👉 https://fraud-ctgan.streamlit.app/
+
 **Run the app now**: `streamlit run app/streamlit_app.py`
 
